@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "53EB73BF8D8F93D990B4D2C839928547BA3D1E1A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "53EB73BF8D8F93D990B4D2C839928547BA3D1E1A" : 9223372036854775807,
+    "105ABE1309A1706213EE925BF489CBD6E84935E0" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "C044C1EB-46A5-4D51-83BF-3C322D77622E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "53EB73BF8D8F93D990B4D2C839928547BA3D1E1A" : "ogg\/",
+    "105ABE1309A1706213EE925BF489CBD6E84935E0" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Ogg",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "macosx\/Ogg.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:harold-b\/Musashi2.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "105ABE1309A1706213EE925BF489CBD6E84935E0"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:harold-b\/ogg.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "53EB73BF8D8F93D990B4D2C839928547BA3D1E1A"
+    }
+  ]
+}
